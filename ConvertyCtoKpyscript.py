@@ -10,10 +10,7 @@ while(o == 1):
  
  # User Input
     n = float(input("Enter Celsius Value (will crash if NaN):  "))
-    #Crash if NaN
-    if n == NaN:
-      exit()
-
+     
     c = 1
 
  # Convert
