@@ -22,6 +22,7 @@ while(o == 1):
     
 
  # Print Answer
-    print (f"{n} Celsius is equal {y} Kelvin")
+    print (f"{n} Celsius is equal to {y} Kelvin")
+    print ("Method: added 273.15")
 
 
